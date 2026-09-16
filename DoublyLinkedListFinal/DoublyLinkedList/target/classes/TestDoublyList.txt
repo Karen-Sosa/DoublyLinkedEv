@@ -1,0 +1,6 @@
+Juan,Aponte,2000-05-14,Masculino,Casado
+Maria,Gomez,1999-08-22,Femenino,Casada
+Carlos,Rodriguez,2001-01-10,Masculino,Soltero
+Laura,Martinez,1998-11-30,Femenino,Soltera
+Andres,Lopez,2002-03-18,Masculino,Casado
+Sofia,Hernandez,2000-07-05,Femenino,Soltera

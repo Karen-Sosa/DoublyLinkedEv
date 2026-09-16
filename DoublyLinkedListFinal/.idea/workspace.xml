@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27970138-5487-4bd7-b022-5198616d010e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/src/main/java/co/edu/uptc/model/DoublyListManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublyLinkedList/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublyLinkedList/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublyLinkedList/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublyLinkedList/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublyLinkedList/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DoublyLinkedList/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublyLinkedList/src/main/java/co/edu/uptc/model/DoublyLinked.java" beforeDir="false" afterPath="$PROJECT_DIR$/DoublyLinkedList/src/main/java/co/edu/uptc/model/DoublyLinked.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublyLinkedList/src/main/java/co/edu/uptc/pojo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/DoublyLinkedList/src/main/java/co/edu/uptc/pojo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublyLinkedList/src/main/java/co/edu/uptc/presenter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DoublyLinkedList/src/main/java/co/edu/uptc/presenter/Presenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublyLinkedList/src/main/java/co/edu/uptc/runner/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/DoublyLinkedList/src/main/java/co/edu/uptc/runner/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublyLinkedList/src/main/java/co/edu/uptc/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/DoublyLinkedList/src/main/java/co/edu/uptc/view/View.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DoublyLinkedList" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JKt2HiSC1j5CnvT9EPKyuBToUs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Tester.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/duvan/Documents/DoublyLinkedListFinal"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.uptc.runner.Tester" />
+      <module name="DoublyLinkedList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.uptc.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27970138-5487-4bd7-b022-5198616d010e" name="Changes" comment="" />
+      <created>1789421379810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789421379810</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DoublyLinkedList/src/main/java/co/edu/uptc/presenter/Presenter.java</url>
+          <line>255</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
